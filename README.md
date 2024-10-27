@@ -16,13 +16,13 @@ This project aims to analyze employee retention within a company using a dataset
 
 *Libraries:*
 
--Pandas
--NumPy
--Seaborn
--Matplotlib
--Scikit-learn
--SciPy
--XGBoost
+- Pandas
+- NumPy
+- Seaborn
+- Matplotlib
+- Scikit-learn
+- SciPy
+- XGBoost
 
 **Business Understanding**
 Understanding and retaining valuable employees is crucial for organizational success. High turnover rates can lead to increased costs, loss of institutional knowledge, and decreased overall productivity. This project addresses the business problem of identifying factors influencing employee retention, providing actionable insights for HR and management.
