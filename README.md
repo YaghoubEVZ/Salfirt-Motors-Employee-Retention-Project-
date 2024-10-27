@@ -4,23 +4,24 @@
 This project aims to analyze employee retention within a company using a dataset containing various employee-related features. The primary objective is to build predictive models that can identify potential attrition risks. The analysis includes exploratory data analysis (EDA), statistical hypothesis testing, and the implementation of machine learning models. The resulting insights and models provide guidance for improving employee retention strategies.
 
 **Skills and Libraries**
-- Skills:
+*Skills:*
 
-Exploratory Data Analysis (EDA)
-Statistical Hypothesis Testing
-Machine Learning Modeling
-Hyperparameter Tuning
-Model Evaluation and Interpretation
-Business Problem Solving
-Libraries:
+-Exploratory Data Analysis (EDA)
+-Statistical Hypothesis Testing
+-Machine Learning Modeling
+-Hyperparameter Tuning
+-Model Evaluation and Interpretation
+-Business Problem Solving
 
-Pandas
-NumPy
-Seaborn
-Matplotlib
-Scikit-learn
-SciPy
-XGBoost
+*Libraries:*
+
+-Pandas
+-NumPy
+-Seaborn
+-Matplotlib
+-Scikit-learn
+-SciPy
+-XGBoost
 **Business Understanding**
 Understanding and retaining valuable employees is crucial for organizational success. High turnover rates can lead to increased costs, loss of institutional knowledge, and decreased overall productivity. This project addresses the business problem of identifying factors influencing employee retention, providing actionable insights for HR and management.
 
