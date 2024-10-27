@@ -6,7 +6,7 @@ This project aims to analyze employee retention within a company using a dataset
 **Skills and Libraries**
 *Skills:*
 
- -Exploratory Data Analysis (EDA)
+ *-Exploratory Data Analysis (EDA)*
  -Statistical Hypothesis Testing
  -Machine Learning Modeling
  -Hyperparameter Tuning
